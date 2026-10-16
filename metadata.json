@@ -1,0 +1,6 @@
+{
+  "name": "MINH & CO. — Cửa Hàng Trực Tuyến",
+  "description": "Nền tảng mua sắm trực tuyến chuyên về nội thất tối giản, đồ gốm thủ công, ánh sáng và đồ gia dụng cao cấp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
